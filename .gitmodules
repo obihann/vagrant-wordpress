@@ -1,0 +1,6 @@
+[submodule "puppet/modules/wordpress"]
+	path = puppet/modules/wordpress
+	url = https://bitbucket.org/obihann/puppet-wordpress.git
+[submodule "puppet/modules/mysql"]
+	path = puppet/modules/mysql
+	url = https://bitbucket.org/obihann/puppet-mysql.git
