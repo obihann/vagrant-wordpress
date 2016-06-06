@@ -3,10 +3,10 @@
 A Vagrant box based containing Ubuntu linux, Apache, MySQL and PHP and Wordpress. Provisioned with puppet and ready to deploy. 
 
 Fork us:   
-[https://github.com/obihann/vagrant-lamp/](https://github.com/obihann/vagrant-wordpress/)
+[https://github.com/obihann/vagrant-wordpress/](https://github.com/obihann/vagrant-wordpress/)
 
 Download the latest box:   
-[https://atlas.hashicorp.com/obihann/boxes/lamp/](https://atlas.hashicorp.com/obihann/boxes/wordpress/)
+[https://atlas.hashicorp.com/obihann/boxes/wordpress/](https://atlas.hashicorp.com/obihann/boxes/wordpress/)
 
 Install the latest box:   
 ```$ vagrant init obihann/wordpress; vagrant up --provider virtualbox```
